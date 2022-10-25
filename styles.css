@@ -1,0 +1,19 @@
+img.first {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    height: auto;
+}
+
+img.reci {
+    border-radius: 10px;
+}
+
+p {
+    color: green;
+}
+
+h4 {
+    position: sticky;
+}
